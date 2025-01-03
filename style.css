@@ -1,0 +1,86 @@
+
+.back{
+    background-color: rgb(44, 62, 80 );
+}
+.backgroundd{
+    background-color:#00ba94 ;
+   
+}
+.nav-pills .nav-link.active{
+    background-color:#00ba94;
+}
+.like:hover{
+    background-color: #00ba94;
+    border-radius: 2px 4px 2px 4px;
+}
+.border1{
+    border-top: 3px solid white !important;
+    width: 100px !important;
+    margin-top: 20px;
+}
+.coolor{
+    border-top: 3px solid rgb(44, 62, 80 )!important;
+    width: 100px !important;
+    margin-top: 20px;
+}
+.blue{
+    color:rgb(44, 62, 80 ) ;
+}
+.bttn{
+    border: 2px solid white;
+    border-radius: 6px ;
+    background-color: transparent;
+    color: white;
+}
+.bttn:hover{
+    background-color: white;
+    color: black;
+}
+.iinput{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.btttn{
+    border: 2px solid white;
+    border-radius: 6px ;
+    color: white;
+    background-color: #00ba94;
+}
+.bg{
+    background-color:rgb(44, 62, 80 ) ;
+}
+.roundedcircle{
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+   text-align: center;
+   padding-top: 16px;
+  
+}
+.roundedcircle:hover{
+    background-color:white ;
+    color: black !important;
+    border: none;
+}
+.prime{
+    background-color: rgb(17, 33, 49);
+}
+.boorder{
+    border: 1x solid white !important;
+    background-color:#00ba94 !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+.boorder1:hover{
+    border: 1x solid white;
+    background-color:#00ba94;
+    border-radius: 5px;
+}
+
+@media (max-width:300px)  {
+    body{
+        font-size: 20px !important;
+    }
+}    
+
